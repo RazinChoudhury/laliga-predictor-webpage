@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/laliga-predictor-react-app/static/css/main.03e70f15.css",
+    "main.js": "/laliga-predictor-react-app/static/js/main.f42b0163.js",
+    "static/media/thirteenth.png": "/laliga-predictor-react-app/static/media/thirteenth.4f9a8ed8db136a7047d3.png",
+    "static/media/fourth.png": "/laliga-predictor-react-app/static/media/fourth.271fc76883463cf9832c.png",
+    "static/media/eighth.png": "/laliga-predictor-react-app/static/media/eighth.122913defef4df3989d9.png",
+    "static/media/fifth.png": "/laliga-predictor-react-app/static/media/fifth.5ef24b9f89c413003565.png",
+    "static/media/ninth.png": "/laliga-predictor-react-app/static/media/ninth.6922e4eec6dd3b4bb013.png",
+    "static/media/second.png": "/laliga-predictor-react-app/static/media/second.21a222924641e7ee636b.png",
+    "static/media/sixth.png": "/laliga-predictor-react-app/static/media/sixth.71c402da31808b9af8b6.png",
+    "static/media/twelvth.png": "/laliga-predictor-react-app/static/media/twelvth.efc8d80b94a1bb239a20.png",
+    "static/media/tenth.png": "/laliga-predictor-react-app/static/media/tenth.a20d3bb55781fe4a9683.png",
+    "static/media/first.png": "/laliga-predictor-react-app/static/media/first.1d802c558472180e50f8.png",
+    "static/media/fourteenth.png": "/laliga-predictor-react-app/static/media/fourteenth.d75546c219f01bc4cd97.png",
+    "static/media/third.png": "/laliga-predictor-react-app/static/media/third.760d046cd86d8b88a07f.png",
+    "static/media/eleventh.png": "/laliga-predictor-react-app/static/media/eleventh.5409828e77d85a78e73b.png",
+    "static/media/seventh.png": "/laliga-predictor-react-app/static/media/seventh.6574334b5971380badea.png",
+    "static/media/logo.png": "/laliga-predictor-react-app/static/media/logo.af45f816c48afe708f6f.png",
+    "index.html": "/laliga-predictor-react-app/index.html",
+    "main.03e70f15.css.map": "/laliga-predictor-react-app/static/css/main.03e70f15.css.map",
+    "main.f42b0163.js.map": "/laliga-predictor-react-app/static/js/main.f42b0163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e70f15.css",
+    "static/js/main.f42b0163.js"
+  ]
+}
